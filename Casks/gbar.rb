@@ -1,6 +1,6 @@
 cask "gbar" do
-  version "0.2.5"
-  sha256 "706587366ed00f7cf2319dfff9afc303f9418b70084bdf23aef0ce59bd6a890a"
+  version "0.3.0"
+  sha256 "508d2cd49bede946d80cc49d7989b455fb8a3e51c80ec06644155dba61ea89be"
 
   url "https://github.com/jaylann/gbar/releases/download/v#{version}/gbar-#{version}.dmg"
   name "gbar"
